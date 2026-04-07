@@ -3681,3 +3681,9 @@ details-disclosure > details {
 @media (max-width: 640px) {
   .verif-card { flex-direction: column; align-items: flex-start; }
 }
+
+
+
+.gradient{
+  background: red;
+}
